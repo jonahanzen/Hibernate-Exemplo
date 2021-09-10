@@ -22,7 +22,7 @@ contendo o "básico" necessário para construir uma aplicação "padrão", enqua
 - Generate ! Note que todo o processo não deve demorar 2 minutos e, já temos um projeto Spring Boot com tudo o que precisamos e vamos utilizar. Agora basta descompactar o arquivo e importar na IDE preferida.
 
 
-## Entendendo as configurações ( Eu deixei README nos links para melhor compreensão )
+## Entendendo as configurações ( Deixei comentários adicionais nas classes para melhor compreensão )
 
 ### Tudo começa no [POM](https://github.com/jonahanzen/Hibernate-Exemplo/blob/master/pom.xml) e no [application.properties](https://github.com/jonahanzen/Hibernate-Exemplo/blob/master/src/main/resources/application.properties)
 
